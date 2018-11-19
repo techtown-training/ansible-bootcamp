@@ -1,11 +1,13 @@
 # ansible-bootcamp
 ASPE's 2 day hands-on Ansible class, taught by an expert from Techtown.
 
+The course developer is Matt Davis - mdavis0351@gmail.com
+
+The course as we currently advertise it - http://techtowntraining.com/courses/ansible-configuration-management-boot-camp
+
 Current version of instructor materials - https://aspetraining.securevdr.com/d-sa546c4152c244fd8
 
 Current version of student materials - https://aspetraining.securevdr.com/d-s5414bf4a45047ba9
-
-The course as we currently advertise it - http://techtowntraining.com/courses/ansible-configuration-management-boot-camp
 
 Here are the prerequisites we send to students enrolled in the class: http://aspetraining.com/files/Course-Requirements/Ansible-Configuration-Boot-Camp-Lab-Connectivity-Test.pdf
 
